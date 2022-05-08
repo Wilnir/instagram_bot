@@ -6,8 +6,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 
 service = Service("/usr/local/bin/chromedriver")
-ACCOUNT = "bandamephystto"
-PASSWORD = "0111406"
+ACCOUNT = ""
+PASSWORD = ""
 
 
 class InstaFollower:
